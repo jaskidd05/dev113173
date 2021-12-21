@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>dfa6b639872001107a284336cebb3592</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="kb_knowledge"&gt;
+    &lt;kb_knowledge action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;article_type&gt;text&lt;/article_type&gt;
+        &lt;author display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/author&gt;
+        &lt;can_read_user_criteria/&gt;
+        &lt;cannot_read_user_criteria/&gt;
+        &lt;category/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;description/&gt;
+        &lt;direct&gt;false&lt;/direct&gt;
+        &lt;disable_commenting&gt;false&lt;/disable_commenting&gt;
+        &lt;disable_suggesting&gt;false&lt;/disable_suggesting&gt;
+        &lt;display_attachments&gt;false&lt;/display_attachments&gt;
+        &lt;flagged&gt;false&lt;/flagged&gt;
+        &lt;image/&gt;
+        &lt;kb_category display_value="Ethereum"&gt;3cd8c8cc872001107a284336cebb3531&lt;/kb_category&gt;
+        &lt;kb_knowledge_base display_value="BlockChain"&gt;0e1eb0f8879401107a284336cebb35cf&lt;/kb_knowledge_base&gt;
+        &lt;language&gt;en&lt;/language&gt;
+        &lt;meta/&gt;
+        &lt;meta_description&gt;Ethereum: The Future of Finance     13 min read Introduction Decentralised Finance has advanced by leaps&lt;/meta_description&gt;
+        &lt;number&gt;KB0010003&lt;/number&gt;
+        &lt;parent/&gt;
+        &lt;published&gt;2021-12-21&lt;/published&gt;
+        &lt;rating/&gt;
+        &lt;retired/&gt;
+        &lt;roles/&gt;
+        &lt;short_description&gt;Ethereum: The future of Finance&lt;/short_description&gt;
+        &lt;source/&gt;
+        &lt;sys_class_name&gt;kb_knowledge&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2021-12-21 16:03:04&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;dfa6b639872001107a284336cebb3592&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2021-12-21 16:03:10&lt;/sys_updated_on&gt;
+        &lt;sys_view_count&gt;0&lt;/sys_view_count&gt;
+        &lt;taxonomy_topic/&gt;
+        &lt;text&gt;&lt;![CDATA[&lt;h1&gt;Ethereum: The Future of Finance&lt;/h1&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div id="wp-share-button-132049"&gt; &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ul style="list-style-type: none; list-style-position: inside;"&gt;&lt;li style="list-style-type: none;"&gt;13 min read&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Decentralised Finance has advanced by leaps and bounds in the last 24 months. DeFi is at the stage where it is beginning to have actual, real-world application. It does not matter which way the market is moving, DeFi protocols are always (mostly) functioning, and development is ongoing. However, we cannot discuss DeFi without mentioning  Ethereum.&lt;/p&gt;
+&lt;p&gt;We are always talking about the importance of Ethereum within the DeFi economy but we have not covered it extensively in a fundamentals report. This is partly because Ethereum is covered literally everywhere and is regularly in the news – we have not covered Bitcoin in a report either for the same reason. We believe the time has come to explain in-depth &lt;em&gt;exactly&lt;/em&gt; why we are so bullish on Ethereum.&lt;/p&gt;
+&lt;p&gt;We have stated in the past that ETH is to DeFi what the US Dollar is to the world economy. What do we mean by this? The US Dollar is the backbone of the international monetary system due to the United States’ position and influence as the global economic hegemon – this is undeniable. ETH, through Ethereum, takes this idea to a whole new level. So, without further ado, let’s get into it.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/07/ETH_fig_1.png" alt="ethereum" width="602" height="332" /&gt;&lt;/p&gt;
+&lt;h2&gt;Ethereum&lt;/h2&gt;
+&lt;p&gt;Created by programmer Vitalik Buterin and launched in 2015, Ethereum is an open-source, decentralised blockchain platform facilitating transactions, smart contracts, and decentralised applications. Ether (ETH) is the native token of Ethereum and is the second-largest cryptocurrency in terms of market capitalisation after Bitcoin.&lt;/p&gt;
+&lt;p&gt;Currently Ethereum is secured through the Proof-of-Work consensus mechanism, however, with the ETH2.0 upgrades set for launch over the next 6-10 months Ethereum will migrate over to the Proof-of-Stake mechanism. Find out more about the difference &lt;a href="https://www.cryptonary.com/cryptoschool/pow-vs-pos/" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;What makes Ethereum so innovative and such a big deal is that it was the first blockchain that was programmable, enabling the creation of smart contracts. The Ethereum network acts as a single large virtual machine whereby programs, called smart contracts, are executed. The state of each individual contract, as well as all wallet balances, are recorded on the distributed ledger. Any conditional statement can be turned into a smart contract, and assets can be moved around according to the parameters programmed within the contract.&lt;/p&gt;
+&lt;p&gt;Consequently, several smart contracts can be combined to create decentralised applications, or DApps. This innovation and versatility paved the way for decentralised finance as we know it today.&lt;/p&gt;
+&lt;p&gt;Let’s have a look at some of the key components of Ethereum and discuss the upcoming upgrades to the network.&lt;/p&gt;
+&lt;h2&gt;Ether &amp;amp; ERC-20 Tokens&lt;/h2&gt;
+&lt;p&gt;One of the best known and best performing large-cap assets in the crypto market, ETH is the fuel that powers the entire Ethereum network. Ether is used to pay for network resources by users when they are transacting, interacting with smart contracts/decentralised applications, and minting tokens, to name a few examples. The fees paid in Ether go to Ethereum miners as an incentive to provide the computing power that runs the network. This will change when Ethereum moves from Proof-of-Work to Proof-of-Stake, as Ether will be staked to secure the network.&lt;/p&gt;
+&lt;p&gt;ERC-20 is the standard for all tokens within the Ethereum network. This standard enables every token on Ethereum to be interoperable with any application which is an essential requirement for the integrated DeFi economy being constructed on the network. ERC-20 tokens are created through smart contracts, which store all wallet balances and define the characteristics of the token – total supply, emissions etc.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/07/ETH_fig_3.png" alt="ethereum" width="602" height="252" /&gt;&lt;/p&gt;
+&lt;h2&gt;Smart Contracts&lt;/h2&gt;
+&lt;p&gt;By far Ethereum’s number one utility is its smart contracts. At the most basic level a smart contract is an on-chain agreement. They essentially execute assigned tasks when certain events occur – for example, a smart contract could send 1 ETH to a particular address every 24 hours. &lt;strong&gt;IF &lt;/strong&gt;24 hours has passed (the trigger) &lt;strong&gt;THEN &lt;/strong&gt;send 1 ETH (the execution). More complex operations can be performed by smart contracts and their versatility is essentially unlimited.&lt;/p&gt;
+&lt;p&gt;Smart contracts share several key properties that make them simple, secure, and transparent:&lt;/p&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Smart contracts have a state, and every single Ethereum node has a copy of this state. Once a smart contract goes live there is no way to alter them or change how they operate unless the developers make changes to the contract.&lt;/li&gt;&lt;li&gt;Since each contract can be viewed on-chain, any changes made are instantly visible to anyone who wants to check. This makes the manipulation of smart contracts difficult to get away with. However, as we have seen several rug-pulls this year, it’s not impossible – in most of those cases a simple audit would have found a lot of the malicious intent in those contracts.&lt;/li&gt;&lt;li&gt;A smart contract &lt;strong&gt;&lt;em&gt;is&lt;/em&gt;&lt;/strong&gt; a contract – there is no room for negotiation. If the conditions of the contract are met, and all parties have agreed to those conditions, then the contract will carry out its task as intended. Since smart contract states are recorded on the blockchain, it is impossible to change the outcome of a smart contract agreement because that would require altering the entire Ethereum ledger.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Regarding the last point, this is referred to as “Code is Law” – if it is not in the smart contract code, it will not happen. Conversely, if it is in the code, then it will happen. Here, the technology is being used to enforce the rules. This begs the question – are lawyers necessary to ensure that an agreement is carried out in full? Do we even need an intermediary at all? This is the whole premise behind decentralised finance.&lt;/p&gt;
+&lt;h2&gt;Solidity &amp;amp; the Ethereum Virtual Machine (EVM)&lt;/h2&gt;
+&lt;p&gt;We mentioned that Ethereum allows for smart contracts – Solidity is the programming language used to code them. Solidity is a high-level, object-oriented language (like C&amp;#43;&amp;#43;). Without complicating things too much, here are the key points:&lt;/p&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Smart contract functionality is programmed using Solidity, and the code is compiled into low-level machine code to be processed on the EVM,with the results being secured on the blockchain.&lt;/li&gt;&lt;li&gt;A virtual machine is a “software computer” – instead of using physical components to run programs, a virtual machine uses software to carry out all the operations. A non-crypto related example of this would be running MacOS on a Microsoft PC. The Ethereum Virtual Machine turns the entire Ethereum blockchain into a single programmable computer.&lt;/li&gt;&lt;li&gt;The distributed nature of blockchain technology, when combined with the EVM, has led to Ethereum being called “The Unstoppable Computer”.&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/07/ETH_fig_2.png" alt="ETH flow chart" width="602" height="353" /&gt;&lt;/h2&gt;
+&lt;h2&gt;Decentralised Applications&lt;/h2&gt;
+&lt;p&gt;Decentralised Applications, or DApps, are on-chain applications that utilise a combination of smart contracts and a Graphical User Interface (GUI) to provide a service or carry out a task. Unlike traditional applications that run on centralised servers, DApps run on the Ethereum blockchain and so they inherit all the characteristics of a &lt;a href="https://www.cryptonary.com/cryptoschool/what-is-blockchain/" rel="nofollow"&gt;blockchain&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/07/ETH_fig_4.png" alt="ethereum" width="602" height="461" /&gt;&lt;/p&gt;
+&lt;p&gt;There are hundreds, if not thousands of decentralised applications running on Ethereum, ranging from Decentralised Exchanges (DEXs) such as Uniswap, to applications that offer services that are more akin to entire banking systems such as Aave and Maker. The possibilities for innovation and use-cases are essentially endless. DApps are at the core of DeFi, and although Ethereum is not the only blockchain that provides smart contract support, it is by far the most activewith over $50 billion of assets in total value locked at the time of writing.&lt;/p&gt;
+&lt;h2&gt;Ethereum Upgrades&lt;/h2&gt;
+&lt;p&gt;The Ethereum network has been struggling with high transaction fees caused by 2 main factors:&lt;/p&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;The exponential price increase of the ETH token, meaning that what was once a $10 transaction fee paid in ETH is now equivalent to $50-100&amp;#43;.&lt;/li&gt;&lt;li&gt;Increased gas fees caused by network congestion – Ethereum blocks are consistently at almost full capacity.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The explosion of DeFi over the last 12-18 months, coupled with the fact that most of the value locked in DeFi is in protocols that utilise the Ethereum blockchain, means the situation has become untenable. If the DeFi economy is to grow further then this must be resolved – sooner, rather than later.&lt;/p&gt;
+&lt;p&gt;Additionally, due to the high transaction costs of using Ethereum, there are now newer blockchains in a position to take a share of Ethereum’s DeFi dominance due to their higher transaction speed and lower costs – one example is Solana.&lt;/p&gt;
+&lt;p&gt;But what is being done to resolve this? Well, there are a few solutions in development that will not only drastically reduce Ethereum transaction costs, but also exponentially increase the speed of the network.&lt;/p&gt;
+&lt;h2&gt;EIP-1559&lt;/h2&gt;
+&lt;p&gt;Ethereum Improvement Proposal 1559, or EIP-1559, is a scheduled upgrade to the Ethereum network that will make Ethereum fees more predictable and less volatile. Gas is a measurement of how much computational work is required for each transaction on Ethereum. The gas fee is the price the user must pay for this work to be carried out.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/07/ETH_fig_5.png" alt="ethereum" width="602" height="276" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Currently, gas fees are determined by an almost chaotic auction-type process where the transaction that is willing to pay the most Ether in fees gets first choice. This has led to runaway fee inflation as the competition for space on Ethereum blocks is constantly growing due to the large amount of DeFi applications now running on the network. The key points are as follows:&lt;/p&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;EIP-1559 replaces the auction-like system currently in place with a more predictable and active system, through the implementation of a ‘base fee’.&lt;/li&gt;&lt;li&gt;This base fee is a minimum fee that is paid and is set depending on network activity, dynamically changing according to network demand.&lt;/li&gt;&lt;li&gt;The improvement aims to set the average amount of work done per Ethereum block at 15 million gas. It does this by increasing the base fee by 12.5% for every consecutive block that contains more than 15 million gas worth of work and decreasing the base fee by 12.5% for every consecutive block that contains less than 15 million gas worth of work. 1 million gas is equal to 0.001ETH so 15million is equal to 0.015ETH.&lt;/li&gt;&lt;li&gt;This base fee is burned, which permanently removes that ETH from the circulating supply. In theory, this means that ETH will periodically become a deflationary asset, which counters inflation from block rewards. Effectively, the amount of burned ETH will be larger than the amount of new ETH being issued. This is important because Ether does not have a maximum supply.&lt;/li&gt;&lt;li&gt;Burning fees at an exponentially increasing rate in relation to network congestion removes the incentive for miners to artificially inflate fees.&lt;/li&gt;&lt;li&gt;An optional fee called an “inclusion fee” can be paid to speed up transactions.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;ETH2.0&lt;/h2&gt;
+&lt;p&gt;Without a doubt one of the most highly anticipated events in the crypto space will be the Ethereum 2.0 upgrades set to launch in Q4 2021 and 2022. ETH2.0 will bring a whole multitude of developments that will fundamentally change the way that the Ethereum blockchain operates.&lt;/p&gt;
+&lt;h2&gt;The Beacon Chain&lt;/h2&gt;
+&lt;p&gt;The Beacon Chain is the first step on the road to ETH2.0 and will bring the Proof-of-Stake mechanism of validation to the network. Currently, Ethereum works on the Proof-of-Work mechanism which is extremely inefficient and uses monumental amounts of processing power.&lt;/p&gt;
+&lt;p&gt;With the Proof-of-Stake consensus mechanism, less computing power is required since validators post a stake in ETH which can be forfeit if they are found to have validated fraudulent transactions. This means that the processing power involved in validating transactions is massively reduced since validators have a vested interest in ensuring transactions are validated accurately. This has the knock-on effect of increasing the transaction speed.&lt;/p&gt;
+&lt;p&gt;The Beacon Chain currently exists as a kind of ‘sidechain’ to the main-net and will be the foundation upon which the other ETH2.0 upgrades will be built.&lt;/p&gt;
+&lt;h2&gt;The Merge&lt;/h2&gt;
+&lt;p&gt;Eventually, at some point in 2021, the Beacon Chain will merge with Ethereum main-net and Ethereum will become a Proof-of-Stake (PoS) secured blockchain. This will consolidate all current features of Ethereum, as well as the full history and current state of the ledger, to Proof-of-Stake.&lt;/p&gt;
+&lt;p&gt;Mining will no longer be required; instead, rewards are given to validators for their work. Additionally, the Proof-of-Stake consensus mechanism frees up more processing resources can be allocated to other operations which in turn allows for another solution to be implemented – sharding.&lt;/p&gt;
+&lt;h2&gt;Sharding&lt;/h2&gt;
+&lt;p&gt;To put it simply, sharding is the concept of sharing the network database across multiple chains, called ‘shards’, which work in unison to spread the workload out, increasing efficiency. Each ‘shard’ handles a different process within the wider blockchain.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/07/ETH_fig_6.png" alt="ethereum" width="602" height="203" /&gt;&lt;/p&gt;
+&lt;p&gt;In its current state the Ethereum network requires &lt;em&gt;every &lt;/em&gt;validator to carry out &lt;strong&gt;&lt;em&gt;all&lt;/em&gt;&lt;/strong&gt; the processes. This is highly inefficient – you would not get the chef in a restaurant to simultaneously take the orders, make all the drinks, &lt;em&gt;and&lt;/em&gt; the food. By distributing the work to multiple chains, sharding will exponentially increase throughput of Ethereum whilst simultaneously increasing decentralisation as well as the security of blockchain.&lt;/p&gt;
+&lt;h2&gt;Layer 2 Solutions&lt;/h2&gt;
+&lt;p&gt;Looking past the upgrades that ETH2.0 will bring, you may have heard of Ethereum Layer 2 solutions. These solutions are already in operation on various applications, and protocols such as Synthetix are in the process of migrating to L2. Axie infinity recently migrated to their L2 solution, the Ronin sidechain.&lt;/p&gt;
+&lt;p&gt;Layer 2 solutions improve speed and transaction costs by running alongside Ethereum main net. They essentially handle transactions off-chain, with only the results being recorded on the Ethereum blockchain. This frees up valuable space in Ethereum blocks, which is currently equivalent to real-estate in Manhattan. More information about Layer 2 solutions can be found in this journal, &lt;a href="https://www.cryptonary.com/journal/ethereum-layer-2-stats-figures/" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+&lt;p&gt;There is a whole new financial system being built on Ethereum that is permissionless, trustless, decentralised and fairer than anything that traditional finance could ever offer.&lt;/p&gt;
+&lt;p&gt;The upgrades outlined above will revolutionise Ethereum and the DeFi economy built upon it. ETH2.0 will make the blockchain far more efficient and scalable, essentially making it ‘future-proof’. Protocols built on the Ethereum network will become substantially more secure, cheaper to use, and sustainable. Layer 2 solutions will amplify the ETH2.0 upgrades and will allow Ethereum to boast transaction speeds comparable to centralised payment networks such as VisaNet.&lt;/p&gt;
+&lt;p&gt;We predict that once ETH2.0 is fully implemented, most of the projects that are designed as “Ethereum killers” will become redundant. 2022 will bring a new, exciting era for decentralised finance, and provide the breathing room required for further growth of the sector.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]&gt;&lt;/text&gt;
+        &lt;topic&gt;General&lt;/topic&gt;
+        &lt;use_count&gt;0&lt;/use_count&gt;
+        &lt;valid_to&gt;2100-01-01&lt;/valid_to&gt;
+        &lt;wiki/&gt;
+        &lt;workflow_state&gt;published&lt;/workflow_state&gt;
+    &lt;/kb_knowledge&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=dfa6b639872001107a284336cebb3592"/&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-21 16:12:58</sys_created_on>
+        <sys_id>ac393eb9872001107a284336cebb3542</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB0010003</sys_name>
+        <sys_package display_value="BlockChain" source="x_732492_blockch_0">1404f0f0879401107a284336cebb3588</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BlockChain">1404f0f0879401107a284336cebb3588</sys_scope>
+        <sys_update_name>sys_metadata_link_ac393eb9872001107a284336cebb3542</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-21 16:12:58</sys_updated_on>
+        <tablename>kb_knowledge</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d0b832b9872001107a284336cebb355b</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="kb_knowledge"&gt;
+    &lt;kb_knowledge action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;article_type&gt;text&lt;/article_type&gt;
+        &lt;author display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/author&gt;
+        &lt;can_read_user_criteria/&gt;
+        &lt;cannot_read_user_criteria/&gt;
+        &lt;category/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;description/&gt;
+        &lt;direct&gt;false&lt;/direct&gt;
+        &lt;disable_commenting&gt;false&lt;/disable_commenting&gt;
+        &lt;disable_suggesting&gt;false&lt;/disable_suggesting&gt;
+        &lt;display_attachments&gt;false&lt;/display_attachments&gt;
+        &lt;flagged&gt;false&lt;/flagged&gt;
+        &lt;image/&gt;
+        &lt;kb_category display_value="NFT"&gt;aba880cc872001107a284336cebb352f&lt;/kb_category&gt;
+        &lt;kb_knowledge_base display_value="BlockChain"&gt;0e1eb0f8879401107a284336cebb35cf&lt;/kb_knowledge_base&gt;
+        &lt;language&gt;en&lt;/language&gt;
+        &lt;meta/&gt;
+        &lt;meta_description&gt;Navigating NFTs: The Good &amp;amp; The Bad 11 min read Introduction 2021 has been without a doubt the “Year&lt;/meta_description&gt;
+        &lt;number&gt;KB0010007&lt;/number&gt;
+        &lt;parent/&gt;
+        &lt;published&gt;2021-12-21&lt;/published&gt;
+        &lt;rating/&gt;
+        &lt;retired/&gt;
+        &lt;roles/&gt;
+        &lt;short_description&gt;Navigating NFTs: The goods and the bads&lt;/short_description&gt;
+        &lt;source/&gt;
+        &lt;sys_class_name&gt;kb_knowledge&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2021-12-21 16:11:28&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;d0b832b9872001107a284336cebb355b&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2021-12-21 16:11:34&lt;/sys_updated_on&gt;
+        &lt;sys_view_count&gt;0&lt;/sys_view_count&gt;
+        &lt;taxonomy_topic/&gt;
+        &lt;text&gt;&lt;![CDATA[&lt;h1&gt;Navigating NFTs: The Good &amp;amp; The Bad&lt;/h1&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ul style="list-style-type: none; list-style-position: inside;"&gt;&lt;li style="list-style-type: none;"&gt;11 min read&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;2021 has been without a doubt the “Year of the NFT”. From Bored Ape Yacht Club on Ethereum, to Aurorians on Solana, there has been no shortage of projects dropping almost every other day. With the sheer number of projects launching, however, it can become difficult to identify the solid projects from the not-so-solid money grabs. In fact, one of the main questions we get asked here at Cryptonary is “what makes a good NFT project?”.&lt;/p&gt;
+&lt;p&gt;We have discussed various NFT projects through our platform, and we have discussed with the &lt;em&gt;creators&lt;/em&gt; of various NFT projects on our podcasts some of their ideas on the topic. However, we have not given a direct answer to the question.&lt;/p&gt;
+&lt;p&gt;The purpose of this journal is to discuss the key aspects of NFT projects offering a good value proposition, and to provide some examples of NFT projects that are severely lacking on that front.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Disclaimer:&lt;/em&gt;&lt;em&gt; THIS IS NOT FINANCIAL OR INVESTMENT ADVICE. Only you are responsible for any capital-related decisions you make and only you are accountable for the results.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;TLDR&lt;/h2&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;The NFT market is now saturated with many new projects of varying quality popping up almost daily across all chains.&lt;/li&gt;&lt;li&gt;Identifying quality from the huge selection of projects to choose from is becoming increasingly difficult due to the sheer number of them.&lt;/li&gt;&lt;li&gt;Projects with strong existing communities offer an attractive value proposition because the limited number of NFTs per collection is tiny compared to the potential membership base. This leads to value accrual since existing holders are unlikely to sell their NFT unless at an extremely attractive price point.&lt;/li&gt;&lt;li&gt;Additionally, gaming projects taking on a graphically simplistic approach have a higher probability of delivering on their roadmap. &lt;strong&gt;&lt;em&gt;Simple is achievable.&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;Projects with a famous name to them, and projects that have already done a couple of mints, are far less likely to provide a high-quality experience and community for minters and buyers after the mint. Most of them are money grabs and should be treated with extreme caution.&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;NFT Projects Explained&lt;/h2&gt;
+&lt;h3&gt;Communities&lt;/h3&gt;
+&lt;p&gt;There are many different types of NFT projects within the space. We have community-based projects like Solana Monkey Business (SMB) who set up the MonkeDAO – a community of SMB holders with the stated goal of cooperation, sharing alpha, swapping skills, and generally enriching the Solana ecosystem. Community is one of the most important aspects of any NFT project.&lt;/p&gt;
+&lt;p&gt;People love to feel that they are a part of something bigger than themselves. NFT communities provide an outlet for that desire, and the stronger the community the more FOMO (fear of missing out) is felt by those not involved. This has a direct effect on the valuation of the NFT associated with that community – how much are those &lt;em&gt;not&lt;/em&gt; involved in a successful community willing to part with to be involved?&lt;/p&gt;
+&lt;div&gt;&lt;iframe allowfullscreen="true"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Building a solid community and creating that sense of involvement for those in the community is identical to the concept of brand loyalty. To summarise, brand loyalty is defined as the positive association that a customer feels towards a specific brand or product. We all have our favourite clothing brand, our favourite car brand, favourite games console – you get the point.&lt;/p&gt;
+&lt;p&gt;This is the number one factor that turns an NFT project from being “just another JPEG” into an in-demand, sought after, and legitimately valuable asset. NFTs take brand loyalty that one step further because in owning that NFT associated with a reputable community you essentially become part of that brand. That is why there are so many NFT profile pictures on Twitter and Discord, etc. The NFT is a membership card to an exclusive club that no-one can take away from you, and people want everyone to know they are a part of that community.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/12/belfort.png" alt="" width="742" height="517" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Going back to the MonkeDAO example – to become part of that club each member must own at least one SMB. There will only ever be 5,000 SMB NFTs and they’ve all been minted. This means that for a new member to join the MonkeDAO community they must purchase an SMB from an existing holder. Add enough value to the community and there suddenly becomes a point at which very few SMB holders are willing to part with their Monkeys because they would be selling their membership card.&lt;/p&gt;
+&lt;h3&gt;Gaming NFTs&lt;/h3&gt;
+&lt;p&gt;Over and above the core community concept many NFT projects have use cases that go beyond access to an exclusive club. One form of this is the use of NFTs to represent an in-game character, item, property, playing card – the list goes on. Innovation is especially important in this sector and as is always the case with games, the simpler the game design and the less complex the graphics are the easier the game is to implement from a development standpoint. The easier the game is to develop, the more likely the team is to deliver on their roadmap within a relatively short amount of time (1-2 years). One such project that we have our eyes on is Kaizen Corps.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/12/1-wPPm0KdVbZM14y1SA2tZ7Q.jpeg" alt="" width="1920" height="1080" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For anyone who has played traditional grand strategy games such as Risk, the premise of the game is simple – to dominate, or take control of, a map. There are 3 factions that will battle for control of the in-game map. Each individual Kaizen NFT will have attributes and skill points that can be allocated after the mint, in essence creating classes of Kaizens.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/12/HighresScreenshot00043.png" alt="" width="600" height="600" /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;As a turn-based strategy game, each player will have 24 hours to take their turn. Co-ordination and co-operation between faction members will optimise the efforts of the team as a whole. For example, a few faction members could attack a target whilst a few others defend a strategic area. This built-in community feature (wrapped as part of the gaming experience) is another strength of the project.&lt;/p&gt;
+&lt;p&gt;Now, as you can see from the images above, there is nothing graphically intensive or complicated to develop – this is an aspect that a lot of gaming projects have over-promised on.&lt;/p&gt;
+&lt;p&gt;To create an open-world sandbox type game is extremely developmentally intensive and takes away large amounts of resources purely to make the game look good. Additionally, the amount of time to properly create a 3-dimensional game from scratch is significant – the potential for bugs is exponentially greater.&lt;/p&gt;
+&lt;p&gt;In the current state of NFT gaming we tend to work on the premise that simple is better – &lt;strong&gt;&lt;em&gt;&lt;span style="box-sizing: border-box; text-decoration: underline;"&gt;simple is&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;&lt;span style="box-sizing: border-box; text-decoration: underline;"&gt;achievable&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;. A lot of projects out there are promising Grand Theft Auto type games that are quite frankly not going to be ready any time soon (within 2-4 years), if they are ever built at all. Now, that’s not to say that it’s impossible to create a game with extensive depth and complexity. Keeping that depth and complexity to the backend and creating a relatively simple frontend is a much more realistic path.&lt;/p&gt;
+&lt;p&gt;We’re not saying that on-chain gaming will never be able to compete with the likes of DICE (the Battlefield series) or Rockstar (the Grand Theft Auto/Red Dead series). However, for us it seems unreasonable to think that a development team is capable of creating a game of that quality using mint money from a few thousand NFTs.&lt;/p&gt;
+&lt;p&gt;Kaizen Corps hasn’t minted yet; the first phase of their mint will be on the &lt;strong&gt;12&lt;sup&gt;th&lt;/sup&gt; of December 2021.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;More information and whitelisting can be found &lt;a href="https://kaizencorps.com/" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Utility Based NFTs&lt;/h3&gt;
+&lt;p&gt;Another example of creating value for NFT minters and holders is attributing utility to the token. If a project can create a use for the NFT then that immediately creates demand and incentive to hold the token to take full advantage of and use the incentives. There are many projects that offer at least some kind of incentive for owning one of their NFTs – one such project is the Shadowy Super Coder (SSC) collection by GenesysGo.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/12/0-1PfpBad2ut2kz4Ei.png" alt="" width="897" height="849" /&gt;&lt;/p&gt;
+&lt;p&gt;GenesysGo offered a few incentives for minting and holding their SSC collection right from the outset:&lt;/p&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;If all 10,000 SSC NFTs sold out within 24-hours they offered &lt;strong&gt;&lt;em&gt;anyone&lt;/em&gt;&lt;/strong&gt; free usage of the GenesysGo RPC network till the end of 2021. For existing GenesysGo users, this incentive was extended till 31&lt;sup&gt;st&lt;/sup&gt; January 2022.&lt;/li&gt;&lt;li&gt;Anyone holding a Shadowy Super Coder NFT was airdropped 10,000 GenGo tokens – this equates to the entire 100 million token seed allocation.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;For projects that already have established communities (such as GenesysGo) providing incentives for their NFTs and rewarding those who contribute is essential for strengthening that community. One single person or VC would have been able to “buy out” the token Initial DEX Offering (IDO) and acquire an over-sized allocation, with the likelihood of them dumping their tokens at an opportune moment but only after the Average Joe had been priced out. By offering the tokens that would otherwise have been sold during an IDO to NFT holders they have essentially decentralised their protocol and its governance, whilst also adding value to the community through the NFT mint.&lt;/p&gt;
+&lt;p&gt;Additionally, by offering free usage of the protocol they are benefitting the entire Solana ecosystem by providing computing power at no cost. Over and above this they have rewarded existing users with an additional month extension – the community didn’t even have to mint or hold an NFT to benefit from this. It is this kind of utility and incentives program that ensures that the community retains brand loyalty whilst also attracting new users who might not have otherwise heard of the protocol.&lt;/p&gt;
+&lt;h3&gt;Useless NFTs&lt;/h3&gt;
+&lt;p&gt;We have spoken in depth about what makes a project an attractive value proposition. However, the journal wouldn’t be complete without discussing some red flags that everyone should have in the back of their minds when deciding if they should mint or invest in an NFT project.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/12/snoopdogg.png" alt="" width="1161" height="749" /&gt;&lt;/p&gt;
+&lt;p&gt;The above is a prime example of a shameless money grab. What is Snoop Dogg making an NFT for? Yes, he’s a fan of NFTs but what does he know about creating and running an NFT community? What happens after the mint? Snoop Dogg is most certainly not going to be in Discord or another forum interacting with that community. The only potentially valuable selling point is the artist. However, as can clearly be seen in the text – he’s already created 2 NFT collections.&lt;/p&gt;
+&lt;p&gt;Create art, mint, copy and paste, mint again. We don’t blame him – it’s a profitable business model, but what’s in it for the minters and holders? We can draw some comparisons between all these NFT mints and the ICO craze in 2017/2018 – look where most of those tokens are now. Where will the floor price of these tokens be in 6-12 months? The fact that it’s actually considered a solid selling point that he’s already done 2 NFT projects is laughable.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/12/Capture.png" alt="" width="1471" height="808" /&gt;&lt;/p&gt;
+&lt;p&gt;If we go on Solanart and look at the Babolex project mentioned in the Instagram text, it literally is a copy and paste – the only difference is the new one is 3D.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The mint price for the Snoop Dogg X Babolex is 1200 EUR.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1200 EUR &amp;#61; $1360 -&amp;gt; Multiplied by 10,000 &amp;#61; &lt;strong&gt;$13,600,000.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are so many red flags here and we hope that it’s now obvious what should be avoided at all costs. These kind of low IQ plays are meant to abuse a celebrity name – “if Snoop Dogg is involved, it must be good! He makes good music!”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Common sense is not that common.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]&gt;&lt;/text&gt;
+        &lt;topic&gt;General&lt;/topic&gt;
+        &lt;use_count&gt;0&lt;/use_count&gt;
+        &lt;valid_to&gt;2100-01-01&lt;/valid_to&gt;
+        &lt;wiki/&gt;
+        &lt;workflow_state&gt;published&lt;/workflow_state&gt;
+    &lt;/kb_knowledge&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=d0b832b9872001107a284336cebb355b"/&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-21 16:12:58</sys_created_on>
+        <sys_id>e8393eb9872001107a284336cebb3540</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB0010007</sys_name>
+        <sys_package display_value="BlockChain" source="x_732492_blockch_0">1404f0f0879401107a284336cebb3588</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BlockChain">1404f0f0879401107a284336cebb3588</sys_scope>
+        <sys_update_name>sys_metadata_link_e8393eb9872001107a284336cebb3540</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-21 16:12:58</sys_updated_on>
+        <tablename>kb_knowledge</tablename>
+    </sys_metadata_link>
+</record_update>

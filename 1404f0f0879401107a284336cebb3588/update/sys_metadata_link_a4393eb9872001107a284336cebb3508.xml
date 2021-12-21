@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>29d7fef5872001107a284336cebb3561</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="kb_knowledge"&gt;
+    &lt;kb_knowledge action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;article_type&gt;text&lt;/article_type&gt;
+        &lt;author display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/author&gt;
+        &lt;can_read_user_criteria/&gt;
+        &lt;cannot_read_user_criteria/&gt;
+        &lt;category/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;description/&gt;
+        &lt;direct&gt;false&lt;/direct&gt;
+        &lt;disable_commenting&gt;false&lt;/disable_commenting&gt;
+        &lt;disable_suggesting&gt;false&lt;/disable_suggesting&gt;
+        &lt;display_attachments&gt;false&lt;/display_attachments&gt;
+        &lt;flagged&gt;false&lt;/flagged&gt;
+        &lt;image/&gt;
+        &lt;kb_category display_value="Blockchains Layer 1"&gt;8ab8c8cc872001107a284336cebb352e&lt;/kb_category&gt;
+        &lt;kb_knowledge_base display_value="BlockChain"&gt;0e1eb0f8879401107a284336cebb35cf&lt;/kb_knowledge_base&gt;
+        &lt;language&gt;en&lt;/language&gt;
+        &lt;meta/&gt;
+        &lt;meta_description&gt;Layer 1s Explained 14 min read What is a Layer 1 blockchain? Simply, a Layer 1 blockchain is the underlying&lt;/meta_description&gt;
+        &lt;number&gt;KB0010005&lt;/number&gt;
+        &lt;parent/&gt;
+        &lt;published&gt;2021-12-21&lt;/published&gt;
+        &lt;rating/&gt;
+        &lt;retired/&gt;
+        &lt;roles/&gt;
+        &lt;short_description&gt;Layers 1 explained&lt;/short_description&gt;
+        &lt;source/&gt;
+        &lt;sys_class_name&gt;kb_knowledge&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2021-12-21 16:07:43&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;29d7fef5872001107a284336cebb3561&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2021-12-21 16:08:14&lt;/sys_updated_on&gt;
+        &lt;sys_view_count&gt;0&lt;/sys_view_count&gt;
+        &lt;taxonomy_topic/&gt;
+        &lt;text&gt;&lt;![CDATA[&lt;h1&gt;Layer 1s Explained&lt;/h1&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ul style="list-style-type: none; list-style-position: inside;"&gt;&lt;li style="list-style-type: none;"&gt;14 min read&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;What is a Layer 1 blockchain? Simply, a Layer 1 blockchain is the underlying core architecture upon which other solutions and, in the case of smart contract enabled chains, applications are built. Older Layer 1 protocols tend to suffer from scalability problems, and the Proof-of-Work consensus mechanism is generally considered to be outdated technology. However, new Layer 1 blockchains have entered the space in the last 24 months that have changed the game in terms of transaction speed, cost, and interoperability.&lt;/p&gt;
+&lt;p&gt;We believe that the narrative of Q4 will be Layer 1s, Bitcoin ETFs and, to a lesser extent, NFTs. With Bitcoin and Ether back at all-time highs and Uptober in full swing, we thought it would be beneficial to write up a TLDR of the main Layer 1 blockchains. How do they handle consensus? What is the native token? Any updates? In this journal we will be covering some of the more interesting and larger market capitalisation Layer 1 projects.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Disclaimer: NOT FINANCIAL NOR INVESTMENT ADVICE. Only you are responsible for any capital-related decisions you make and only you are accountable for the results.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Ethereum: The Wall Street of Crypto&lt;/h2&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Launch Year: 2015&lt;/li&gt;&lt;li&gt;Creator: Vitalik Buterin&lt;/li&gt;&lt;li&gt;Token: Ether or ETH&lt;/li&gt;&lt;li&gt;Consensus Mechanism: Proof-of-Work (&lt;em&gt;moving to Proof-of-Stake in 2022&lt;/em&gt;)&lt;/li&gt;&lt;li&gt;Unique Selling Points: Largest network effect, first-mover advantage, largest number and variety of applications.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/Ethereum-Logo.wine_.png" alt="" width="2560" height="1707" /&gt;&lt;/p&gt;
+&lt;p&gt;Nick Szabo is the first one who to discuss smart contracts, but Ethereum is the first blockchain to implement them. Since then, it has practically become a household name and the chain that every new L1 project is secretly trying to overtake.&lt;/p&gt;
+&lt;p&gt;At the most basic level a smart contract is an on-chain agreement – if it is not in the smart contract code, it will not happen. Conversely, if it is in the code, then it will happen. Here, the technology is being used to enforce the rules. This begs the question – are lawyers necessary to ensure that an agreement is carried out in full? Do we even need an intermediary at all? This is the whole narrative behind Ethereum – decentralised finance, or DeFi.&lt;/p&gt;
+&lt;p&gt;Ethereum has the largest number of DApps as well as the widest variety which is keeping it at the forefront of this race. Its main weakness is scalability and this is the angle of attack many projects are using but a lot of it gets fixed with the implementation of ETH2.0. Additionally, it kickstarts a staking industry where even institutional investors are showing interest.&lt;/p&gt;
+&lt;p&gt;Part of the DeFi narrative is the creation of Web 3.0 – the decentralisation of the internet. Ethereum is Turing-Complete, which means that essentially any possible application or use case can be implemented on Ethereum. This has led to the creation of thousands of decentralised applications, or DApps – anything from decentralised exchanges (DEXs) and decentralised insurance, to entire video games. The possibilities are quite literally endless. Ethereum 2.0 is the planned update to the network and will drastically improve scalability and lower the costs of using Ethereum. Anticipation of this upgrade, along with NFTs, has largely driven the Ethereum narrative over the last few months with huge amounts of ETH being locked up in the ETH2.0 staking contract.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Solana: The World’s Fastest Blockchain&lt;/h2&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Launch Year: 2020&lt;/li&gt;&lt;li&gt;Creator: Anatoly Yakovenko&lt;/li&gt;&lt;li&gt;Token: SOL&lt;/li&gt;&lt;li&gt;Consensus Mechanism: Delegated Proof-of-Stake&lt;/li&gt;&lt;li&gt;Unique Selling Points: Extremely fast and cheap to use, the programming language Rust is also used outside of crypto which means a larger pool of potential devs&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/solana.png" alt="" width="1179" height="661" /&gt;&lt;/p&gt;
+&lt;p&gt;Founded by Anatoly Yakovenko and launched in April 2020, Solana is a Layer 1 delegated Proof-of-Stake (DPoS) blockchain with the objective of providing scalability without compromising on decentralisation or security. Solana is another programmable blockchain and has subsequently become decentralised finance hub, with a growing ecosystem and a booming NFT economy. SOL is the native currency of Solana, and has recently made it into the top 10 cryptocurrencies by market cap.&lt;/p&gt;
+&lt;p&gt;The main selling point of Solana is its speed and efficiency. The key innovation is the Proof-of-History consensus which is a sequence of computation allowing for the cryptographic verification of the passage of time between two events. Other blockchains rely on sequential validation of blocks which requires validators to talk to each other to reach a consensus on the passage of time when a transaction occurs&lt;em&gt;. &lt;/em&gt;This slows down the network because the previous block of transactions must be confirmed by every validator node on the network before the next block can begin. Due to this innovation, the Solana blockchain can comfortably handle over 50,000 transactions per second.&lt;/p&gt;
+&lt;p&gt;In September 2021 Solana suffered an outage caused by resource exhaustion as the network loaded peaked at 400,000 transactions per second (tps) due to bot activity during the Grape protocol IDO on Raydium. The halting of the network brought into question the level of network centralisation; however, it was a majority of validators that made the decision to halt the network and not any one individual or entity. With over 400 projects centred around DeFi, NFTs, and Web 3.0, the Solana ecosystem has seen explosive growth since the start of the year, and we expect that to continue through to 2022. The future is multichain and we believe that Solana is well positioned to claim a healthy share of the DeFi economy.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Avalanche: Incentivising DeFi&lt;/h2&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Launch Year: 2020&lt;/li&gt;&lt;li&gt;Creator: Emin Gün Sirer&lt;/li&gt;&lt;li&gt;Token: AVAX&lt;/li&gt;&lt;li&gt;Consensus Mechanism: Proof-of-Stake&lt;/li&gt;&lt;li&gt;Unique Selling Points: Fast and cheap, heavy incentives for use, EVM compatible&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/avalanche.png" alt="" width="1000" height="562" /&gt;&lt;/p&gt;
+&lt;p&gt;Founded by Emin Gün Sirer and launched in September 2020, Avalanche is a Layer 1 blockchain utilising a Proof-of-Stake consensus mechanism with full smart contract capability. Avalanche is Ethereum Virtual Machine (EVM) compatible and uses the same programming language as Ethereum (Solidity). The number of Solidity capable developers is huge and so there has been no shortage of development, which is partly why the Avalanche ecosystem has seen rapid development and subsequent growth throughout 2021.&lt;/p&gt;
+&lt;p&gt;Avalanche allows for the creation of custom blockchains and assets. There are 3 key aspects of Avalanche, the X, P, and C chains. The X Chain (Exchange Chain) API is used for setting the conditions and rules for the creation and trading of digital assets on the Avalanche ecosystem. The P and C chains both utilise the &lt;strong&gt;Snowman Consensus Protocol&lt;/strong&gt;. Snowman is basically a more efficient, linear version of the Avalanche consensus and is optimised for smart contract functionality as well as speed and security, and cross-compatibility with Ethereum.&lt;/p&gt;
+&lt;p&gt;Avalanche offers a cheaper and faster alternative to both Ethereum and Polkadot and is generally more decentralised with thousands of validators. The ecosystem has seen rapid growth – a lot of the protocols built on Avalanche are essentially copy and pasted from Ethereum DeFi which has cut down development time – if it isn’t broke, don’t fix it! We expect this growth to continue into the latter half of 2021. Another DeFi hub, Avalanche is another contender we believe will have a place in the growing decentralised economy.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Mina: The World’s Lightest Blockchain&lt;/h2&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Launch Year: 2021&lt;/li&gt;&lt;li&gt;Creator: Evan Shapiro and Izaac Meckler&lt;/li&gt;&lt;li&gt;Token: MINA&lt;/li&gt;&lt;li&gt;Consensus Mechanism: Ouroboros Samasika (Proof-of-Stake)&lt;/li&gt;&lt;li&gt;Unique Selling Points: Privacy, decentralisation, next to no entry barriers for validating&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/MINA-9.png" alt="" width="2030" height="803" /&gt;&lt;/p&gt;
+&lt;p&gt;Created by Evan Shapiro and Izaac Meckler and launched in March 2021, Mina is the world’s first &lt;strong&gt;succinct&lt;/strong&gt; Layer 1 blockchain with application support. A succinct blockchain allows transaction verification to be independent of the chain length – Mina does this by utilising consistently sized cryptographic proofs, called zk-SNARKs. Utilising a version of the Proof-of-Stake (PoS) mechanism called Ouroboros Samasika, the entire Mina ledger fits into a file roughly 22kb in size. Considering that the Ethereum ledger is roughly 7 Terabytes in size this is an impressive feat and has led to Mina being labelled “the World’s Lightest Blockchain”.&lt;/p&gt;
+&lt;p&gt;Playing on the use of SNARKs, decentralised applications on Mina are called SNApps. Also called Snarkified Applications, SNApps add an additional layer of privacy to smart contract and transaction execution allowing the verification of any conceivable dataset without having to disclose the details of the data. The Mina network is also highly decentralised since the entry barriers for becoming a validator are basically non-existent.&lt;/p&gt;
+&lt;p&gt;Presently, there is a push to bridge the Mina ecosystem to Ethereum and a $1.2 million contract has been awarded to the &amp;#61;nil; Foundation to do exactly that. SNApps haven’t been implemented yet but that is another key focus for the developers. We don’t expect anything major to come from Mina for the remainder of this year, however it is still early in the development roadmap and a lot of the planned development should come to fruition during 2022.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Binance Smart Chain: A Centralised Alternative&lt;/h2&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Launch Year: 2020&lt;/li&gt;&lt;li&gt;Creator: Binance&lt;/li&gt;&lt;li&gt;Token: BNB&lt;/li&gt;&lt;li&gt;Consensus Mechanism: Proof-of-Stake&lt;/li&gt;&lt;li&gt;Unique Selling Points: Fast and cheap to use, integrated with Binance (the world’s largest exchange by volume), EVM compatible&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/bsc.png" alt="" width="1572" height="600" /&gt;&lt;/p&gt;
+&lt;p&gt;Created by Binance and launched in September 2020, Binance Smart Chain (BSC) is a smart contract capable, Ethereum Virtual Machine compatible, Proof-of-Stake Layer 1 blockchain. BSC runs in parallel with Binance Chain which was originally created to support Binance DEX. BSC sacrifices decentralisation to improve scalability – there are only 21 validators processing transactions at any one time. BNB is the native token for Binance Smart Chain and has seen huge growth throughout 2021 as developers view it as a cheaper and faster alternative to Ethereum.&lt;/p&gt;
+&lt;p&gt;Another popular DeFi hub, Binance Smart Chain has seen relatively extensive use with a peak of just under $50 billion in total value locked (TVL) before the correction in May – mostly in PancakeSwap, a decentralised exchange built on BSC. The chain has been the centre of some controversy due to the considerable number of rug pulls and scams executed in recent months. However, it is undeniable that the growing number of DeFi projects and NFT activity has secured Binance Smart Chain as a practical alternative to Ethereum for many who do not want to pay exorbitant gas fees.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Cardano: Blockchain 3.0?&lt;/h2&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Launch Year: 2015&lt;/li&gt;&lt;li&gt;Creator: Charles Hoskinson&lt;/li&gt;&lt;li&gt;Token: ADA&lt;/li&gt;&lt;li&gt;Consensus Mechanism: Proof-of-Stake&lt;/li&gt;&lt;li&gt;Unique Selling Points: Fast and cheap to use (although there is not much in the way of DeFi at the time of writing)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/cardano-1.png" alt="" width="1024" height="513" /&gt;&lt;/p&gt;
+&lt;p&gt;Created by Charles Hoskinson and founded in 2015, Cardano is a Proof-of-Stake Layer 1 blockchain that set out to solve the scalability problem that Bitcoin and Ethereum suffer from. The development team consists of academics and engineers from with experience in many industries. One of the key areas where Cardano slips up is its development time, and we feel that a lot of the issue is the bureaucracy.&lt;/p&gt;
+&lt;p&gt;There have been no less than 90 whitepapers written for Cardano and its technology, but not a lot in terms of delivery. It has taken roughly 6 years to go from launch to smart contract functionality – one of the key elements of the blockchain that was set out in the whitepaper. To put that in perspective, Ethereum launched the same year and is currently the undisputed DeFi hub for the entire crypto market.&lt;/p&gt;
+&lt;p&gt;A step in the right direction for the project was the Alonzo hard fork in September 2020 which officially enabled smart contract functionality. However, it remains to be seen how quickly DeFi protocols will launch on Cardano. We don’t believe that there will be any major breakthroughs by the end of this year, but the infrastructure should now be in place for development to accelerate.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Polkadot (DOT): The Internet of Blockchains&lt;/h2&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Launch Year: 2020&lt;/li&gt;&lt;li&gt;Creator: Gavin Wood&lt;/li&gt;&lt;li&gt;Token: DOT&lt;/li&gt;&lt;li&gt;Consensus Mechanism: Proof-of-Stake&lt;/li&gt;&lt;li&gt;Unique Selling Points: Fast, good value accrual through Parachain leasing&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/Polkadot.jpg" alt="" width="1920" height="1080" /&gt;&lt;/p&gt;
+&lt;p&gt;Created by Gavin Wood and launched in May 2020, Polkadot is a Proof-of-Stake multi-chain network of interoperable, customisable blockchains. Labelled an “Internet of Blockchains”, Polkadot aims to provide a scalable platform where any conceivable application can create a specialised blockchain that suits the needs of that application whilst also having a seamless link to other blockchains on the Polkadot network, as well as other external ecosystems such as Ethereum.&lt;/p&gt;
+&lt;p&gt;Although not technically a Layer 1 blockchain, Polkadot brands itself as a Layer 0 protocol due to its structure – a base layer with Layer 1 blockchains built on top. One of the most anticipated events in crypto this year has been the launch of Polkadot Parachain Auctions. This is the process where various projects can bid for a Parachain slot and become part of the Polkadot ecosystem.&lt;/p&gt;
+&lt;p&gt;With the first Parachain auction beginning on the 11&lt;sup&gt;th&lt;/sup&gt; of November 2021, Polkadot is for sure one of the assets to watch for the remainder of 2021 and beyond. We will be investing in Parachains as part of the wider strategy of capitalising on base layer blockchains over Q4 2021. For more details check out &lt;a href="https://www.cryptonary.com/journal/parachain-auction/" rel="nofollow"&gt;this&lt;/a&gt; journal.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;Cosmos: Universal Solution to Blockchain Interoperability&lt;/h2&gt;
+&lt;ul style="list-style-type: disc; list-style-position: inside;"&gt;&lt;li&gt;Launch Year: 2019&lt;/li&gt;&lt;li&gt;Creator: Jae Kwon and Ethan Buchman&lt;/li&gt;&lt;li&gt;Token: ATOM&lt;/li&gt;&lt;li&gt;Consensus Mechanism: Proof-of-Stake (Tendermint BFT)&lt;/li&gt;&lt;li&gt;Unique Selling Points: Cheap transactions, Tendermint BFT enabling simpler application development&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/cosmos.jpg" alt="" width="1200" height="630" /&gt;&lt;/p&gt;
+&lt;p&gt;Cosmos was founded in 2014 and 2017 saw the ATOM ICO. However, it was not till the “Big Bang” in March 2019 that the Cosmos Hub was launched. Another “Internet of Blockchains” protocol, Cosmos aims to create a network of customisable, interoperable blockchains that share data and tokens programmatically, with no central authority managing or controlling activity on the network. Cosmos uses the Tendermint BFT (Byzantine Fault Tolerance) engine – an algorithm that allows developers to create custom blockchains on the Cosmos Hub, the intermediary between all blockchains on the Cosmos Network, without having to code them from scratch.&lt;/p&gt;
+&lt;p&gt;Utilising a Proof-of-Stake consensus mechanism, Cosmos is powered by the ATOM token which also acts as a governance token allowing holders to participate in protocol improvements and upgrades. The Cosmos SDK (software development kit) was used to build some high-value projects, for example Terra. However, activity on Cosmos does not add a lot of value to its native token ATOM as there is not a lot of value accrual other than the purchase of the token for utility/governance/staking purposes. Compare this to the Parachain Auctions and Crowdloan mechanism of Polkadot, which by design locks up supply whilst simultaneously increasing demand. As a platform for settling transactions and building blockchains, it’s great. However, the real beneficiaries of Cosmos are the projects that are built using the technology.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;]]&gt;&lt;/text&gt;
+        &lt;topic&gt;General&lt;/topic&gt;
+        &lt;use_count&gt;0&lt;/use_count&gt;
+        &lt;valid_to&gt;2100-01-01&lt;/valid_to&gt;
+        &lt;wiki/&gt;
+        &lt;workflow_state&gt;published&lt;/workflow_state&gt;
+    &lt;/kb_knowledge&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=29d7fef5872001107a284336cebb3561"/&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-21 16:12:58</sys_created_on>
+        <sys_id>a4393eb9872001107a284336cebb3508</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB0010005</sys_name>
+        <sys_package display_value="BlockChain" source="x_732492_blockch_0">1404f0f0879401107a284336cebb3588</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BlockChain">1404f0f0879401107a284336cebb3588</sys_scope>
+        <sys_update_name>sys_metadata_link_a4393eb9872001107a284336cebb3508</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-21 16:12:58</sys_updated_on>
+        <tablename>kb_knowledge</tablename>
+    </sys_metadata_link>
+</record_update>

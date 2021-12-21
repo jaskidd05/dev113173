@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b3187e39872001107a284336cebb35e8</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="kb_knowledge"&gt;
+    &lt;kb_knowledge action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;article_type&gt;text&lt;/article_type&gt;
+        &lt;author display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/author&gt;
+        &lt;can_read_user_criteria/&gt;
+        &lt;cannot_read_user_criteria/&gt;
+        &lt;category/&gt;
+        &lt;cmdb_ci/&gt;
+        &lt;description/&gt;
+        &lt;direct&gt;false&lt;/direct&gt;
+        &lt;disable_commenting&gt;false&lt;/disable_commenting&gt;
+        &lt;disable_suggesting&gt;false&lt;/disable_suggesting&gt;
+        &lt;display_attachments&gt;true&lt;/display_attachments&gt;
+        &lt;flagged&gt;false&lt;/flagged&gt;
+        &lt;image/&gt;
+        &lt;kb_category display_value="Gaming"&gt;17598ccc872001107a284336cebb356b&lt;/kb_category&gt;
+        &lt;kb_knowledge_base display_value="BlockChain"&gt;0e1eb0f8879401107a284336cebb35cf&lt;/kb_knowledge_base&gt;
+        &lt;language&gt;en&lt;/language&gt;
+        &lt;meta/&gt;
+        &lt;meta_description&gt;Crypto x Gaming – Time Sensitive Release       9 min read   We hope you have been enjoying the series&lt;/meta_description&gt;
+        &lt;number&gt;KB0010006&lt;/number&gt;
+        &lt;parent/&gt;
+        &lt;published&gt;2021-12-21&lt;/published&gt;
+        &lt;rating/&gt;
+        &lt;retired/&gt;
+        &lt;roles/&gt;
+        &lt;short_description&gt;Crypto x Gaming – Time Sensitive Release&lt;/short_description&gt;
+        &lt;source/&gt;
+        &lt;sys_class_name&gt;kb_knowledge&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2021-12-21 16:09:41&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;b3187e39872001107a284336cebb35e8&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2021-12-21 16:09:44&lt;/sys_updated_on&gt;
+        &lt;sys_view_count&gt;0&lt;/sys_view_count&gt;
+        &lt;taxonomy_topic/&gt;
+        &lt;text&gt;&lt;![CDATA[&lt;h1&gt;Crypto x Gaming – Time Sensitive Release&lt;/h1&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;ul style="list-style-type: none; list-style-position: inside;"&gt;&lt;li style="list-style-type: none;"&gt; &lt;/li&gt;&lt;li style="list-style-type: none;"&gt;9 min read&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;p&gt;We hope you have been enjoying the series of articles covering the intersection of crypto and gaming. If you remember at the end of the &lt;a href="https://www.cryptonary.com/journal/crypto-x-gaming-installment-2/" rel="nofollow"&gt;second instalment&lt;/a&gt;, it was mentioned that the next article would cover Star Atlas. In the &lt;a href="https://www.cryptonary.com/journal/crypto-x-gaming-installment-2-5/" rel="nofollow"&gt;previous instalment&lt;/a&gt; a decision was made to highlight opportunities which have a time limit on them, and are of a higher urgency. In a similar fashion to our article last week, this week the game which we will be looking into (Aurory) has announced an IDO (initial token sale), occurring today&lt;strong&gt;. As always if you’re in a rush, scroll down to the bottom of the article for the TL;DR section.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/aurory_banner.png" alt="" width="873" height="196" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Let’s start with the time critical details relating to the Aurory IDO. &lt;/strong&gt;The IDO starts on &lt;strong&gt;October 21st at 2PM UTC &lt;/strong&gt;and runs for 24 hours&lt;strong&gt;,&lt;/strong&gt; with &lt;strong&gt;7% &lt;/strong&gt;of the total supply (&lt;strong&gt;7,000,000 &lt;/strong&gt;tokens) being offered re-using the IDO program developed by Mango Markets. We have covered how the IDO system developed by Mango works in our article which covered Mango Markets which you can find &lt;a href="https://www.cryptonary.com/journal/mango-markets-ready-for-harvest/" rel="nofollow"&gt;here&lt;/a&gt;. &lt;strong&gt;If you’re pressed for time, find below a summary of how it works:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First phase:&lt;/strong&gt; The &lt;strong&gt;sale&lt;/strong&gt; period, runs for 24 hours and you will be able to deposit USDC into a smart contract vault.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Second phase:&lt;/strong&gt; The second period is the &lt;strong&gt;grace period&lt;/strong&gt; and will start after the first phase concludes. If you consider the price of the token too high, you can withdraw your USDC. During this period &lt;strong&gt;you cannot deposit anymore&lt;/strong&gt;. At the end of this period the price of the $AURY token will then adjust based on the amount of USDC in the vault. The price can be calculated as Price per Token &amp;#61; (USDC in vault / Number of tokens).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Last phase:&lt;/strong&gt; The final period is the &lt;strong&gt;redeem period&lt;/strong&gt;, where you will have a month to redeem the purchased tokens to your wallet.&lt;/p&gt;
+&lt;p&gt;We’ll look to keep this instalment simple and straightforward, especially as the thesis behind crypto and gaming has been covered multiple times over the previous instalments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To be clear, Aurory and their token AURY will not be part of the Cryptonary portfolio. However, we will always look to highlight and explain any opportunity that presents itself for our members. The official link for the IDO raise can be found at the bottom of this article, via embedded tweet from their official account. Please exercise extreme caution when following links, and only trust verified sources. Therefore, we have embedded the legitimate tweet, and not directly provided the link.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer: NOT FINANCIAL NOR INVESTMENT ADVICE. Only you are responsible for any capital-related decisions you make and only you are accountable for the results.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What is Aurory?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Aurory is a play to earn (P2E) JRPG (anime style graphics) game which has many similarities to Pokemon. A human like character (Aurorian) is controlled by the player as they complete quests and explore the world of Antik, collecting Nefties that you use in battles. The game has both Player vs Environment (Pve) and Player vs Player (PvP) features. You will utilise a team of up to 3 Nefties in a turn based tactical RPG-style battle. Victory is obtained by eliminating all the opponents’ Nefties. Nefties are collected by encountering them during your adventures and defeating them. The gameplay model is extremely similar to the one Pokemon have used since 1996, to great success.&lt;/p&gt;
+&lt;p&gt;The single player campaign (PvE) will be free to anyone to access (&lt;strong&gt;no paywalls of any kind&lt;/strong&gt;) and aims to get players familiar with the game and its’ mechanics. Completing the single player mode will also reward players with AURY tokens and in game items, incentivising them to participate in the PvP mode. They say a picture is worth a hundred words, so let’s look at some in-game footage of the single player campaign below.&lt;/p&gt;
+&lt;div&gt;&lt;iframe allowfullscreen="true"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Now that you’ve gotten an idea of what the single player campaign would look like, let’s look at the battle system with Nefties and the multiplayer mode. The below video should help illustrate and explain the battle system.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;&lt;iframe src="https://www.youtube.com/embed/aVyMZXtNffs?feature&amp;#61;oembed" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The above videos should give you a full understanding of the core gameplay features. The inclusion of crypto into the gameplay should help player retention and activity, as all your in-game progress can be monetised. The game should have a closed alpha available in approximately 2 months and a full release in Q2 2022. The team is planning to release a desktop version of the game first, and then subsequently port it over to a mobile format as well. The gameplay and design are very well suited for a mobile platform, and it is encouraging to see the team plan for this and look to become a true cross platform game.&lt;/p&gt;
+&lt;p&gt;Lastly a couple of key details regarding the game and team. The team developing Aurory expanded rapidly over the last two months, with the project hiring top tier personnel from established major gaming studios. You can check the team and their experience and qualifications &lt;a href="https://auroryproject.medium.com/news-about-aurory-the-team-2c2129449256" rel="nofollow"&gt;here&lt;/a&gt; (make sure to scroll down to the bottom of the article). In our opinion this one of the best crypto x gaming teams in the industry at the moment as illustrated by the rapid development and alpha footage, and we are excited to see the finalised game.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;The AURY Token&lt;/h2&gt;
+&lt;p&gt;First of all, let’s look at the use cases of the AURY Token, as that will ultimately determine the demand for the token once the game launches. The AURY token will be used to:&lt;/p&gt;
+&lt;p&gt;1 – Customise your in-game character&lt;/p&gt;
+&lt;p&gt;2 – Buy and sell in game items and Nefties&lt;/p&gt;
+&lt;p&gt;3 – Rewards for in game progression&lt;/p&gt;
+&lt;p&gt;4 – Used to enter certain in game events such as PvP tournaments&lt;/p&gt;
+&lt;p&gt;5 – Staking rewards for users who stake their AURY tokens&lt;/p&gt;
+&lt;p&gt;Deflationary measures for the token are still being developed and currently we have no further information available about this feature. Staking AURY tokens will generate yield in AURY, but also allow stakers’ eligibility for NFT drops that will have in game functionality and to also access to some multiplayer modes if they have enough AURY staked. AURY can also be accumulated by playing the game, so someone can choose to either play a lot to get enough AURY to access the multiplayer modes, or simply buy enough tokens on the market. The below flow chart also helps illustrate the use of the AURY token.&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/aury_flow_chart-1024x362.png" alt="" width="1024" height="362" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Now let’s look at a critical factor, the tokenomics and token distribution.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First of you’ll notice that only 11% of the total supply will be on the market after the IDO. This is both good and bad, as short-term the lower supply should drive an immediate increase in price as we’ve seen with most IDO’s. However, as the circulating supply is such a low % of the market, as more supply becomes unlocked this creates the scenario where holders of large amounts of tokens that have unlocked look to dump on the market. This becomes noticeable from the vesting schedule, as there is a marked increase after 24 months in the amount of tokens that will be unlocked. &lt;strong&gt;Another critical point will be the 3 month point, as seed investor tokens start unlocking. &lt;/strong&gt;What we find concerning is that the community will only have access to 7% of the supply initially which pales in comparison to the team and seed allocations. We always believe that the creators should be entitled to a large share of the tokens to reward their work, however here we see the seed investors have a larger allocation than the team. The community should of course benefit from the P2E allocation, but that will benefit active players of the game and not just passive holders. To be fair to the project, there are two important points which indicate that they have good intentions:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1 – The use of the Mango Markets IDO mechanism ensures fair access to anyone, and 7% being offered to the public is significantly larger than what other projects have done (Star Atlas with 0.5% offered to the public via lottery system).&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2 – Deciding to not limit access to Aurorian holders, the projects’ earlier pfp NFT collection. Instead, 5% of the supply has been allocated to the Aurorians DAO for them to do as they see fit, a novel approach.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="height: auto;" src="https://www.cryptonary.com/wp-content/uploads/2021/10/aurory_tokenomics-1.png" alt="" width="875" height="998" /&gt;&lt;/p&gt;
+&lt;h2&gt;TL;DR&lt;/h2&gt;
+&lt;p&gt;The tokenomics are not perfect however they are a step in the right direction. Ultimately the success of the project will be determined by the quality of the game and not the tokenomics. The core gameplay mechanics are tried and tested over the last 20 years, and if implemented correctly should easily catch on. The expedited timeline looks to capitalise upon the hype associated with P2E games. Aurory will also be first P2E game on Solana (with actual gameplay and not a roadmap), and thus should have a significant first mover advantage. The free gameplay should help with attracting new users, but ultimately their player retention will come down to the quality of the gameplay.&lt;/p&gt;
+&lt;p&gt;At the moment we do not know how the P2E rewards will be distributed, so even if you are not looking to participate in the IDO today, it will probably be well worth being one of the early players. As we have mentioned multiple times, rewards are usually heavily weighted towards early adopters, and the P2E aspect should allow users to have exposure to the game without allocating any capital, if they wish to do so.&lt;/p&gt;
+&lt;p&gt;Overall, we believe Aurory is one of the top tier P2E gaming projects in the space, and has a timeline that we believe is feasible due to the exceptional team and also their current progress to date. The author of this article will be participating in the IDO. For the IDO link, please see the below tweet from the official Aurory twitter account.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/AuroryProject/status/1451153293741285379?ref_src&amp;#61;twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1451153293741285379%7Ctwgr%5E%7Ctwcon%5Es1_&amp;amp;ref_url&amp;#61;https%3A%2F%2Fwww.cryptonary.com%2Fjournal%2Fcrypto-x-gaming-time-sensitive-release%2F" rel="nofollow"&gt;https://twitter.com/AuroryProject/status/1451153293741285379?ref_src&amp;#61;twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1451153293741285379%7Ctwgr%5E%7Ctwcon%5Es1_&amp;amp;ref_url&amp;#61;https%3A%2F%2Fwww.cryptonary.com%2Fjournal%2Fcrypto-x-gaming-time-sensitive-release%2F&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;&lt;iframe allowfullscreen="true"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;]]&gt;&lt;/text&gt;
+        &lt;topic&gt;General&lt;/topic&gt;
+        &lt;use_count&gt;0&lt;/use_count&gt;
+        &lt;valid_to&gt;2100-01-01&lt;/valid_to&gt;
+        &lt;wiki/&gt;
+        &lt;workflow_state&gt;published&lt;/workflow_state&gt;
+    &lt;/kb_knowledge&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=b3187e39872001107a284336cebb35e8"/&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-21 16:12:58</sys_created_on>
+        <sys_id>64393eb9872001107a284336cebb353c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB0010006</sys_name>
+        <sys_package display_value="BlockChain" source="x_732492_blockch_0">1404f0f0879401107a284336cebb3588</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BlockChain">1404f0f0879401107a284336cebb3588</sys_scope>
+        <sys_update_name>sys_metadata_link_64393eb9872001107a284336cebb353c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-21 16:12:58</sys_updated_on>
+        <tablename>kb_knowledge</tablename>
+    </sys_metadata_link>
+</record_update>
